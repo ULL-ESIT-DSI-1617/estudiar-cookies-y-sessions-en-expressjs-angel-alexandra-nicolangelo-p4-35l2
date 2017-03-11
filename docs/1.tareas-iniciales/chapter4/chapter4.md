@@ -1,4 +1,4 @@
-# Pandoc
+#Capítulo 4: Pandoc
 Si necesitas pasar un archivo de un formato a otro, Pandoc es la herramienta que necesitas.
 Pandoc puede convertir un documento en MarkDown, HTML, DocBook, Microsoft Word, Libre Office, etc a cualquier otro formato.
 
