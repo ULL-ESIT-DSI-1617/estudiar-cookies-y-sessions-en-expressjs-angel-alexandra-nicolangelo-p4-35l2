@@ -1,0 +1,25 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Practica 4: Estudiar Cookies y sessions en expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandra, Angel, Nicolangelo",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-angel-alexandra-nicolangelo-p4-35l2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-angel-alexandra-nicolangelo-p4-35l2/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-angel-alexandra-nicolangelo-p4-35l2#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
