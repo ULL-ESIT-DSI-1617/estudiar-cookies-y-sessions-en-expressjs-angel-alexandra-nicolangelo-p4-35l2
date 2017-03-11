@@ -45,7 +45,7 @@ Casiano Rodríguez León
 * [GitHub](https://github.com/alu0100912005)
 
 ## Despliegue del libro
-* [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/tareas-iniciales/content/)
+* [Despliegue del libro en GitBook](https://alexandra_esplugas.gitbooks.io/practica-4-cookies/content/)
 * [Despliegue del libro en gh-pages](https://ull-esit-dsi-1617.github.io/tareas-iniciales-angel-nicolangelo-alexandra-35l2/)
 * [Despliegue del libro en Iaas]()
 
