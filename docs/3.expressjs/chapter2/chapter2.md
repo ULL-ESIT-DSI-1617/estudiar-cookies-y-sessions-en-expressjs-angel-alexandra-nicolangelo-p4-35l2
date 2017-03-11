@@ -1,4 +1,4 @@
-#Direccionamiento básico
+# Capítulo 2: Direccionamiento básico
 
 El direccionamiento hace referencia a la determinación de cómo una aplicación responde a una solicitud de cliente en un determinado punto final, el cual es una vía de acceso (o un URI, un identificador de recursos uniforme) y un método de solicitud HTTP específico (como GET o POST).
 
@@ -34,7 +34,7 @@ Donde
 
 Aquí un ejemplo en la terminal:
 
-##Método POST
+## Método POST
 
 Instalar body-parser para poder utilizar el método POST.
 

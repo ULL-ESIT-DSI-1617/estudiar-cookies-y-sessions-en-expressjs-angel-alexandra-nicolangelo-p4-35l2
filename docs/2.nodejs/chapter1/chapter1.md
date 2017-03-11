@@ -1,4 +1,4 @@
-# Chapter 1: GitBook
+# Capítulo 1: GitBook
 
 GitBook fue creado a mediados de 2014 con la visión de crear una solución moderna y sencilla a la documentación, la escritura digital y la publicación. Se ha construido un formato de código abierto. La filosofía es ser simple hasta el punto de la elegancia, eliminando las distracciones y las preocupaciones de los creadores de contenido, para que puedan escribir libremente.
 

@@ -1,4 +1,4 @@
-# Chapter 2: GH - Pages
+# Capítulo 2: GH - Pages
 
 GitHub Pages es un servicio de alojamiento de sitios estáticos y está diseñado para alojar páginas directamente desde un repositorio de GitHub
 
@@ -62,35 +62,50 @@ El directorio base de todos los archivos de origen \(aquellos que aparecen en la
 
 Ejemplo del uso de `basePath:`
 
-`/**`
+`/**
+`
 
-` * Given the following directory structure:`
+` * Given the following directory structure:
+`
 
-` *`
+` *
+`
 
-` *   build/`
+` *   build/
+`
 
-` *     index.html`
+` *     index.html
+`
 
-` *     js/`
+` *     js/
+`
 
-` *       site.js`
+` *       site.js
+`
 
-` *`
+` *
+`
 
-`` * The usage below will create a `gh-pages` branch that looks like this:``
+`` * The usage below will create a `gh-pages` branch that looks like this:
+``
 
-` *`
+` *
+`
 
-` *   index.html`
+` *   index.html
+`
 
-` *   js/`
+` *   js/
+`
 
-` *     site.js`
+` *     site.js
+`
 
-` *`
+` *
+`
 
-` */`
+` */
+`
 
 `ghpages.publish(path.join(__dirname, 'build'), callback);`
 

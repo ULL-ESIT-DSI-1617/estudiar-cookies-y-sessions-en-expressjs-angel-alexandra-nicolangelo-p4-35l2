@@ -1,4 +1,4 @@
-#Direccionamiento
+#Capítulo 3: Direccionamiento
 El _Direccionamiento _hace referencia a la definición de puntos finales de aplicación (URI) y cómo responden a las solicitudes de cliente.
 
 A continuación, mostramos un código de ejemplo de una ruta muy básica:
