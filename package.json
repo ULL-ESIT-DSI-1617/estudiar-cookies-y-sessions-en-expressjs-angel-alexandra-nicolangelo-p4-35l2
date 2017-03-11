@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-angel-alexandra-nicolangelo-p4-35l2#readme",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "express": "^4.15.2",
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-serve": "^1.4.0",
+    "gulp-shell": "^0.6.3"
   }
 }
