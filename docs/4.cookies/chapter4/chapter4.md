@@ -1,4 +1,4 @@
-# Capítulo 3: Set-Cookie
+# Set-Cookie
 
 El encabezado de respuesta HTTP Set-Cookies HTTP es usado para enviar cookies 
 desde el servidor al usuario agente .
