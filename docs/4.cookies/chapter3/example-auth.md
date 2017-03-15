@@ -1,4 +1,4 @@
-## express-simple-authentication-example ##
+# Express simple authentication example #
 ### Ejemplo de uso ###
 ![example-auth1](https://preview.c9users.io/nico_apache/1_informatica/dsi/practica4_grupoL/img/express-auth-example.png)
 ### Tenemos que loguearnos ###
