@@ -15,7 +15,7 @@
     * [Capítulo 3: Guía de direccionamiento](docs/3.expressjs/chapter3/chapter3.md)
     * [Capítulo 4: Utilización del middleware](docs/3.expressjs/chapter4/chapter4.md)
     * [Capítulo 5: Documentación de Router](docs/3.expressjs/chapter5/chapter5.md)
-* [Práctica 4: Estudiar las Cookies](docs/4.cookies/chapter3/README.md)
+* [Práctica 4: Estudiar las Cookies](README.md)
     * [Capítulo 1: Cookies](docs/4.cookies/chapter1/cookie.md)
     * [Capítulo 2: Como usarlas](docs/4.cookies/chapter2/how-to-use.md)
     * [Capítulo 3: Ejemplos](docs/4.cookies/chapter3/example-auth.md)
