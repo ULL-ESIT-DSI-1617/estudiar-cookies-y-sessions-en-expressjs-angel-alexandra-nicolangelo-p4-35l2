@@ -1,1 +1,0 @@
-# Capítulo 2: Gh-Pages

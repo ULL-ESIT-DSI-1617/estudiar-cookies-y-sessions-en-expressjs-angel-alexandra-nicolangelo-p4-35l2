@@ -1,1 +1,0 @@
-# Capítulo 4: Set-Cookies
