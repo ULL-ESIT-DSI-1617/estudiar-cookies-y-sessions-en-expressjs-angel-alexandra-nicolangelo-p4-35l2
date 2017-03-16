@@ -1,0 +1,23 @@
+{
+  "author": "Casiano Rodrígeuz León (https://github.com/crguezl)",
+  "name": "express-simple-authentication-example",
+  "description": "Simple Express authentication example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/express-cookies-examples",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ULL-ESIT-DSI-1617/express-cookies-examples.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "~4.5"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-flash": "*",
+    "pug": "*"
+  },
+  "devDependencies": {}
+}
