@@ -34,4 +34,4 @@ gulp.task('gulp-ull', function(){
 
 // Tarea por defecto
 
-gulp.task('default', ['build', 'deploy']);
+//gulp.task('default', ['build', 'deploy']);

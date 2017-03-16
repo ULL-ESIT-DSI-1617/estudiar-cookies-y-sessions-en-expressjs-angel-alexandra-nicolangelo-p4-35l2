@@ -1,6 +1,0 @@
-* [Introducción](README.md)
-* [Práctica 2: Primeros pasos con NodeJS](docs/2.nodejs/README.md)
-    * [Capítulo 1: Gitbook](docs/2.nodejs/chapter1/chapter1.md) 
-    * [Capítulo 2: Gh-Pages](docs/2.nodejs/chapter2/chapter2.md)
-    * [Capítulo 3: Instalación](docs/2.nodejs/chapter3/chapter3.md)
-    * [Capítulo 4: Pandoc](docs/2.nodejs/chapter4/chapter4.md)
