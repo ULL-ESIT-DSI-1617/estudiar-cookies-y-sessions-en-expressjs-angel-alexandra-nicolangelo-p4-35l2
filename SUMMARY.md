@@ -22,3 +22,6 @@
     * [Capítulo 4: Set-Cookie](docs/cookies/chapter4/chapter4.md)
     * [Capítulo 5: Query String](docs/cookies/chapter5/chapter5.md)
     * [Capítulo 6: HTTP Cookies](docs/cookies/chapter6/HTTP_Cookies.md)
+    * [Capítulo 7: Hello Cookies](docs/cookies/chapter7/hello-cookie.md)
+    * [Capítulo 8: Cookie Sessions](docs/cookies/chapter8/cookie-session-counter.md)
+    * [Capítulo 9: Basic Auth](docs/cookies/chapter9/basic-auth.md)
