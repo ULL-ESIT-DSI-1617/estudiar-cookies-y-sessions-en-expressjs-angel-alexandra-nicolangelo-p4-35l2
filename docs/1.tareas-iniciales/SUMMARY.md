@@ -1,0 +1,6 @@
+* [Introducción](README.md)
+* [Práctica 1: Tareas Iniciales](docs/1.tareas-iniciales/README.md)
+    * [Capítulo 1: Gitbook](docs/1.tareas-iniciales/chapter1/chapter1.md) 
+    * [Capítulo 2: Gh-Pages](docs/1.tareas-iniciales/chapter2/chapter2.md)
+    * [Capítulo 3: Instalación](docs/1.tareas-iniciales/chapter3/chapter3.md)
+    * [Capítulo 4: Pandoc](docs/1.tareas-iniciales/chapter4/chapter4.md)
